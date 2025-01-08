@@ -65,6 +65,6 @@ sections:
           aliquip ex ea commodo consequat.
         actions:
           - type: Button
-            label: Read the Docs
+            label: 去“台州投资促进网”了解更多
             url: 'https://docs.netlify.com/visual-editor/overview/'
 ---
