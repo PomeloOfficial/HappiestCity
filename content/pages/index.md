@@ -53,7 +53,7 @@ sections:
             label: 去“携程网”了解更多
             url: 'https://you.ctrip.com/cranking/crankingCity/100001412064.html'
       - type: Card
-        title: Third Card Title
+        title: 投资台州
         image:
           type: Image
           url: /images/ts.svg
