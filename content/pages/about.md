@@ -22,7 +22,6 @@ sections:
 
       If the content of this website infringes your rights and interests, or you
       have the idea of acquiring this domain, cooperating to operate the
-      website, or putting forward comments and suggestions on the content of
-      this website, welcome to contact the webmaster mailbox. Email:
-      `admin#rowingbohe.com (# -> @)`
+      website, or putting forward comments and suggestions, welcome to contact
+      the webmaster mailbox. Email: `admin#rowingbohe.com (# -> @)`
 ---
