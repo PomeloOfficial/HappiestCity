@@ -65,7 +65,7 @@ sections:
             label: 去“台州投资促进网”了解更多
             url: 'http://www.tzstzcjzx.cn/index.html'
   - type: HeroSection
-    title: 关于
+    title: 更多信息
     subtitle: About
     text: >
       本网站旨在介绍关于“中国最具幸福感城市”——中国台州市的信息。本网站为一位台州市民自发搭建，与台州市政府或有关单位无任何联系。本网站所用资源以学习交流为目的，如有侵权请联系我们删除。
