@@ -39,7 +39,7 @@ sections:
         actions:
           - type: Button
             label: 更多介绍
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://www.zjtz.gov.cn/col/col1229049306/index.html'
       - type: Card
         title: 文旅台州
         image:
