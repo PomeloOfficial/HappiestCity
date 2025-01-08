@@ -50,7 +50,7 @@ sections:
           台州是诗画江南、独具魅力的诗和远方，兼具山、海、水的自然品性，是距今万年的下汤文化的发祥地，中华“和合文化”的发源地，浙东唐诗之路目的地，徐霞客游记开篇地，大陈岛垦荒精神的诞生地。拥有3个国家5A级旅游景区、16个国家4A级旅游景区、3个国家级湿地公园、1个世界地质公园、4个国家级风景名胜区。境内有“佛宗道源”天台山、“仙人居住的地方”神仙居、“江南八达岭”台州府城墙、“东方巴黎圣母院”温岭石塘、“候鸟的天堂”玉环漩门湾湿地等。
         actions:
           - type: Button
-            label: Read the Docs
+            label: 去“携程网”了解更多
             url: 'https://you.ctrip.com/cranking/crankingCity/100001412064.html'
       - type: Card
         title: Third Card Title
