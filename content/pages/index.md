@@ -16,7 +16,7 @@ sections:
         color: primary
       - type: Button
         label: ENGLISH
-        url: 'https://docs.netlify.com/visual-editor/overview/'
+        url: 'http://taizhou.chinadaily.com.cn/index.html'
         size: large
         variant: outlined
         color: primary
