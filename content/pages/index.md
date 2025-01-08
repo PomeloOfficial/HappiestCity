@@ -66,5 +66,5 @@ sections:
         actions:
           - type: Button
             label: 去“台州投资促进网”了解更多
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'http://www.tzstzcjzx.cn/index.html'
 ---
