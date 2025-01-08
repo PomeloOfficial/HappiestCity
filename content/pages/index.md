@@ -64,4 +64,23 @@ sections:
           - type: Button
             label: 去“台州投资促进网”了解更多
             url: 'http://www.tzstzcjzx.cn/index.html'
+  - type: HeroSection
+    title: 更多信息
+    subtitle: More Information
+    text: >
+      您也可以访问以下链接，来了解更多与台州有关的信息：
+
+
+      *   [台州市人民政府](https://www.zjtz.gov.cn/)
+
+
+      *   [中国台州网](http://www.taizhou.com.cn)
+
+
+      *   [中国台州（Taizhou, China）](http://taizhou.chinadaily.com.cn/)
+
+
+      *   [台州市 -
+      求闻百科](https://www.qiuwenbaike.cn/wiki/%E5%8F%B0%E5%B7%9E%E5%B8%82)
+    actions: []
 ---
