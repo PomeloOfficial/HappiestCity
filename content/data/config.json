@@ -19,7 +19,7 @@
             {
                 "type": "Link",
                 "label": "English",
-                "url": "https://docs.netlify.com/visual-editor/overview/",
+                "url": "/en",
                 "underline": "hover"
             }
         ]
