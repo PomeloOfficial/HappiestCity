@@ -35,10 +35,7 @@ sections:
           url: /images/nextjs.svg
           altText: First item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          台州位于浙江省东部，陆域面积10050平方公里，海域面积8万平方公里。下辖椒江、黄岩、路桥三个区，临海、温岭、玉环三个县级市和天台、仙居、三门三个县，常住人口667.8万，是长三角中心区27城之一、国务院批复确定的浙江沿海区域性中心城市和现代化港口城市。台州素有“七山二水一分田”之称其地形地貌是浙江省的缩影。
         actions:
           - type: Button
             label: Read the Docs
