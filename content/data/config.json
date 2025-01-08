@@ -13,7 +13,7 @@
         ]
     },
     "footer": {
-        "copyrightText": "Designed by <a href=\"https\\://rowingbohe.com\" target=\"\\_blank\">Pomelo</a>. Powered by [Netlify](https://www.netlify.com/).\n",
+        "copyrightText": "Designed by [Pomelo](https://rowingbohe.com/). Powered by [Netlify](https://www.netlify.com/).\n",
         "navLinks": [
             {
                 "type": "Link",
