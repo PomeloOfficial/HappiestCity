@@ -23,7 +23,7 @@
             },
             {
                 "type": "Link",
-                "label": "About",
+                "label": "关于 About",
                 "underline": "hover",
                 "url": "/about"
             },
