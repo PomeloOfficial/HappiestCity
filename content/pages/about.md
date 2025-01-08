@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: 关于
-    subtitle: This is the subtitle
+    subtitle: About
     text: >
       This is **Markdown** *text*.
 
