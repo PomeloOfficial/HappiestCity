@@ -67,8 +67,8 @@ sections:
   - type: HeroSection
     title: 更多信息
     subtitle: More Information
-    text: >+
-      `您也可以访问以下链接，来了解更多与台州有关的信息：`
+    text: >
+      您也可以访问以下链接，来了解更多与台州有关的信息：
 
 
       *   [台州市人民政府](https://www.zjtz.gov.cn/)
@@ -82,6 +82,5 @@ sections:
 
       *   [台州市 -
       求闻百科](https://www.qiuwenbaike.cn/wiki/%E5%8F%B0%E5%B7%9E%E5%B8%82)
-
     actions: []
 ---
