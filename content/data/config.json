@@ -31,7 +31,7 @@
                 "type": "Link",
                 "label": "Contact",
                 "underline": "hover",
-                "url": "https://docs.netlify.com/visual-editor/overview/"
+                "url": "/contact"
             }
         ]
     }
