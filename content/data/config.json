@@ -2,7 +2,7 @@
     "type": "Config",
     "favicon": "/images/favicon.svg",
     "header": {
-        "title": "Happiest City",
+        "title": "Happiest.City",
         "navLinks": [
             {
                 "type": "Link",
