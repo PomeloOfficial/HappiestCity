@@ -10,7 +10,7 @@ sections:
     actions:
       - type: Button
         label: 了解更多
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
+        url: 'https://www.zjtz.gov.cn/col/col1229049306/index.html'
         size: large
         variant: contained
         color: primary
