@@ -51,7 +51,7 @@ sections:
         actions:
           - type: Button
             label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://you.ctrip.com/cranking/crankingCity/100001412064.html'
       - type: Card
         title: Third Card Title
         image:
