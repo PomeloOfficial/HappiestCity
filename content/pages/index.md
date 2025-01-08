@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: 浙江台州
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    subtitle: 中国最具幸福感城市（China's Happiest City）
     text: >
       This is the HeroSection component. You can visually edit this component &
       add more sections while developing locally. [Learn
