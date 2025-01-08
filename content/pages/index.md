@@ -23,6 +23,7 @@ sections:
     image:
       type: Image
       altText: Hero section image
+      url: /images/hero.svg
   - type: CardsSection
     title: 更多信息
     subtitle: “追着阳光去台州”
