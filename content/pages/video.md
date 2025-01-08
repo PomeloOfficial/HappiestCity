@@ -16,7 +16,7 @@ sections:
         variant: contained
         color: primary
       - type: Button
-        label: Learn more
+        label: ''
         url: /
         size: large
         variant: outlined
