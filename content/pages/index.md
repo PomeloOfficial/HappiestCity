@@ -59,10 +59,7 @@ sections:
           url: /images/ts.svg
           altText: Third item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          台州是中国股份合作经济的发祥地，民营经济最活跃的地区，长三角重要的先进制造业基地。台州拥有制造业企业8万家，境内外上市公司70多家，境内上市公司数量居全国地级市第4。27个百亿级产业集群，68个国家级产业基地，以及近307个国内外市场占有率第一的“隐形冠军”产品。台州是国家级普惠金融服务小微企业改革示范区、中国民营经济创新示范区，
         actions:
           - type: Button
             label: 去“台州投资促进网”了解更多
