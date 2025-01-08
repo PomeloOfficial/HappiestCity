@@ -25,7 +25,7 @@
         ]
     },
     "footer": {
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/).",
+        "copyrightText": "Designed by <a href=\"https\\://rowingbohe.com\" target=\"\\_blank\">Pomelo</a>. Powered by [Netlify](https://www.netlify.com/).\n",
         "navLinks": [
             {
                 "type": "Link",
