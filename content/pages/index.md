@@ -26,7 +26,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: 更多信息
-    subtitle: Section subtitle here
+    subtitle: “追着阳光去台州”，
     items:
       - type: Card
         title: First Card Title
