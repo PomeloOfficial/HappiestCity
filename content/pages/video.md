@@ -4,7 +4,7 @@ title: 台州城市宣传片
 sections:
   - type: HeroSection
     title: 台州城市形象宣传片
-    subtitle: The section subtitle
+    subtitle: ''
     text: >-
       Add more sections by hovering above or below this one and clicking '+ Add
       Section', or using the sidebar.
