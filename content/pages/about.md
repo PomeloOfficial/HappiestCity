@@ -12,7 +12,7 @@ sections:
       如果本网站的内容侵犯了您的权益，或者您有收购域名、合作运营网站的想法，或您想对本网站的内容提出意见和建议，欢迎与站长邮箱联络。站长邮箱：`admin#rowingbohe.com`（#换成@）
 
 
-      The website is aimed at introducing information about "China's Happiest
+      This website is aimed at introducing information about "China's Happiest
       City" - Taizhou, China. The resources used in this website are for the
       purpose of learning and communication, if there is infringement, please
       contact us to delete. This website is spontaneously built by a Taizhou
@@ -21,8 +21,8 @@ sections:
 
 
       If the content of this website infringes your rights and interests, or you
-      have the idea of acquiring a domain name, cooperating to operate the
-      website, or you want to put forward comments and suggestions on the
-      content of this website, welcome to contact the webmaster mailbox. Email:
+      have the idea of acquiring this domain, cooperating to operate the
+      website, or putting forward comments and suggestions on the content of
+      this website, welcome to contact the webmaster mailbox. Email:
       `admin#rowingbohe.com (# -> @)`
 ---
