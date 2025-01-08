@@ -6,12 +6,6 @@
         "navLinks": [
             {
                 "type": "Link",
-                "label": "About",
-                "url": "/about",
-                "underline": "hover"
-            },
-            {
-                "type": "Link",
                 "label": "English",
                 "url": "/en",
                 "underline": "hover"
