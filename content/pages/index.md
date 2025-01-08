@@ -15,7 +15,7 @@ sections:
         variant: contained
         color: primary
       - type: Button
-        label: ENGLISH
+        label: LEARN MORE
         url: 'http://taizhou.chinadaily.com.cn/index.html'
         size: large
         variant: outlined
