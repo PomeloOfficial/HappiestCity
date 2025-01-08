@@ -2,30 +2,18 @@
     "type": "Config",
     "favicon": "/images/favicon.svg",
     "header": {
-        "title": "TypeScript + MUI Starter",
+        "title": "Happiest City",
         "navLinks": [
             {
                 "type": "Link",
-                "label": "Home",
-                "url": "/",
-                "underline": "hover"
-            },
-            {
-                "type": "Link",
-                "label": "About",
-                "url": "/about",
-                "underline": "hover"
-            },
-            {
-                "type": "Link",
-                "label": "Documentation",
-                "url": "https://docs.netlify.com/visual-editor/overview/",
+                "label": "English",
+                "url": "/en",
                 "underline": "hover"
             }
         ]
     },
     "footer": {
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/).",
+        "copyrightText": "Designed by <a href=\"https\\://rowingbohe.com\" target=\"\\_blank\">Pomelo</a>. Powered by [Netlify](https://www.netlify.com/).\n",
         "navLinks": [
             {
                 "type": "Link",
@@ -41,9 +29,9 @@
             },
             {
                 "type": "Link",
-                "label": "Documentation",
+                "label": "Contact",
                 "underline": "hover",
-                "url": "https://docs.netlify.com/visual-editor/overview/"
+                "url": "/contact"
             }
         ]
     }
