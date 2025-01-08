@@ -25,7 +25,7 @@ sections:
       url: /images/hero.svg
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Component
+    title: 更多信息
     subtitle: Section subtitle here
     items:
       - type: Card
