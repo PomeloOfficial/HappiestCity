@@ -29,7 +29,7 @@ sections:
     subtitle: “追着阳光去台州”，
     items:
       - type: Card
-        title: First Card Title
+        title: 了解台州
         image:
           type: Image
           url: /images/nextjs.svg
