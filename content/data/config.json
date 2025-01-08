@@ -29,7 +29,7 @@
             },
             {
                 "type": "Link",
-                "label": "Documentation",
+                "label": "Contact",
                 "underline": "hover",
                 "url": "https://docs.netlify.com/visual-editor/overview/"
             }
