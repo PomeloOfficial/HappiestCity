@@ -1,9 +1,9 @@
 ---
-title: Home
+title: 中国台州 - 中国最具幸福感城市
 type: Page
 sections:
   - type: HeroSection
-    title: 浙江台州
+    title: 中国·台州
     subtitle: 中国最具幸福感城市（China's Happiest City）
     text: >
       **“山海水城，和合圣地，制造之都”。**文化交融汇合的移民城市，甜蜜鲜美的沿海城市，民营经济发达的富裕城市，物产丰饶的宜居城市。[九度荣膺“中国最具幸福感城市”](https://mp.weixin.qq.com/s?__biz=MjM5MDM4NTYwMQ==\&mid=2652430586\&idx=1\&sn=f588c0dce8e40db6145b686062d21fc7\&chksm=bcdefc65d43e5f7811a60ec3e56f5bdf39824f2b3a5da3af179ab37de8d3102837ec585ef552\&scene=27)。
