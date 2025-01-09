@@ -7,8 +7,8 @@ sections:
     subtitle: ''
     text: >+
       <video id="video1" muted=""
-      poster="https://www.zjtz.gov.cn/picture/0/2007231806563989376.png"
-      width=auto height=auto 
+      poster="<https://www.zjtz.gov.cn/picture/0/2007231806563989376.png>"
+      width="auto" height="auto"
 
 
       controls="" autoplay=""><source
