@@ -8,6 +8,9 @@ sections:
     text: >+
       <video id="video1" muted=""
       poster="https://www.zjtz.gov.cn/picture/0/2007231806563989376.png"
+      width=auto height=auto 
+
+
       controls="" autoplay=""><source
       src="https://www.zjtz.gov.cn/media/0/7d0d3820717041b2adea4f7969a423fa.mp4"></video>
 
