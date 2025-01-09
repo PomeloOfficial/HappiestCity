@@ -6,9 +6,7 @@ sections:
     title: 台州城市形象宣传片
     subtitle: ''
     text: >+
-      <video id="video1" muted=""
-      poster="https://www.zjtz.gov.cn/picture/0/2007231806563989376.png"
-      width="540" height="460" controls="" autoplay="">
+      <video width="540" height="460" controls>
 
       <source
       src="https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web2787/site/media/0/7d0d3820717041b2adea4f7969a423fa.mp4">
